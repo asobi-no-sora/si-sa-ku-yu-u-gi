@@ -1,5 +1,5 @@
 # the note
-*Studies*
+*Studies — 2.7.4*
 
 Someone plays a note.  
 This pitch, this loudness. Fully a note —  
