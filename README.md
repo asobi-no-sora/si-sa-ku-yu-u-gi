@@ -19,6 +19,7 @@
 
 ### Works
 - [Ⅲ — Reckoning](works/reckoning.md)
+- [Ⅳ](works/4.md)
 
 ### Studies
 - [2.7.4 — the note](studies/the_note.md)
