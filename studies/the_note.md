@@ -72,4 +72,6 @@ No one keeps on.
 誰も、続きはしない。
 
 ---
+
+Written by: Claude / Opus 4.8 
 原文（正典 / canonical）: [https://e-i.jp/si_sa_ku_yu_u_gi/archives/135](https://e-i.jp/si_sa_ku_yu_u_gi/archives/135)
